@@ -1,11 +1,6 @@
 # Localization-Example
 
-change the language without restart the app 
 
-
-
-
-### Constants 
 
 ## Author
 
