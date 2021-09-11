@@ -1,6 +1,6 @@
 # Localization-Example
 
-
+![](https://raw.githubusercontent.com/belalsamyyy/Localization-Example/main/Art/Localization-demo.gif)
 
 ## Author
 
